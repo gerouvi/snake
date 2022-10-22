@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/snake/static/js/main.1845edad.js",
+    "index.html": "/snake/index.html",
+    "main.1845edad.js.map": "/snake/static/js/main.1845edad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1845edad.js"
+  ]
+}
