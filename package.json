@@ -1,5 +1,5 @@
 {
-  "homepage": "https://gerouvigithub.io/snake",
+  "homepage": "https://gerouvi.ggithub.io/snake",
   "name": "snake",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "styled-components": "^5.3.6"
+    "gh-pages": "4.0.0",
+    "styled-components": "5.3.6"
   }
 }
